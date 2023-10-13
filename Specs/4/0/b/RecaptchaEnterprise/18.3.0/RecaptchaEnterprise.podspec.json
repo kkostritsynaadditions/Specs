@@ -28,5 +28,6 @@
   "vendored_frameworks": [
     "Frameworks/RecaptchaEnterprise.xcframework"
   ],
-  "version": "18.3.0"
+  "version": "18.3.0",
+  "swift_version": "5.0"
 }
